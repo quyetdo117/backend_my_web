@@ -22,5 +22,5 @@ route(app);
 
 
 app.listen(post, () => {
-    console.log('lay url http://localhost:' + post)
+    console.log('lay url http://localhost:s' + post)
 })
